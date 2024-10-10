@@ -10,11 +10,9 @@ type: software
 authors:
   - given-names: Shima
     family-names: Baharlouei
-    email: shima.baharlouei@ehu.eus
     affiliation: University of the Basque Country (UPV/EHU)
     orcid: 'https://orcid.org/0000-0003-2066-6523'
   - given-names: Carlos
     family-names: Uriarte
-    email: carlos.uriarte@ehu.eus
     affiliation: University of the Basque Country (UPV/EHU)
     orcid: 'https://orcid.org/0000-0002-0155-3091'
