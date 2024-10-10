@@ -1,4 +1,4 @@
-# NETLS4ParametricPDEs
+# LS-Net for Parametric PDEs
 
 For the **transmission2D** experiments, follow these steps:
 
